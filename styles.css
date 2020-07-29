@@ -32,13 +32,13 @@ font-family: 'Raleway', sans-serif;
     }
     #page header{
         margin-top: 20px;
-        height: 545px;
+        height: 500px;
     }
     #page #h1header {
         font-size: 38px;
     }
     #page h2 {
-        margin-top: 130px;
+        margin-top: 100px;
         font-size: 30px;
     }
     #page h3 {
@@ -64,12 +64,15 @@ font-family: 'Raleway', sans-serif;
     }
     #page footer p:nth-child(1){
         font-size: 18px;
+        line-height: 15px
     }
     #page footer p:nth-child(2){
         font-size: 15px;
+        line-height: 13px
     }
     #page footer p:nth-child(3){
         font-size: 10px;
+        margin-top: 8px;
     }
     #page form p {
         font-size: 12px;
