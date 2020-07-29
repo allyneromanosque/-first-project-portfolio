@@ -34,15 +34,15 @@ font-family: 'Raleway', sans-serif;
         margin-top: 20px;
         height: 400px;
     }
-    #page #h1header {
-        font-size: 28px;
-    }
     #page h2 {
         margin-top: 115px;
         font-size: 23px;
     }
     #page h3 {
         font-size: 19px;
+    }
+    #page #h1header {
+        font-size: 28px;
     }
     #page header p {
         font-size: 11px;
@@ -52,14 +52,29 @@ font-family: 'Raleway', sans-serif;
     #page menu {
         margin-top: 0;
     }
+    #page #links .texto{
+        margin-left: 1px;
+        margin-right: 8px;
+    }
+    #page #name.texto {
+        display: flex;
+        margin-right: 15px;
+    }
+    #page menu a span {
+        font-size: 0px;
+    }
+    #page #contactMe.texto {
+        display: flex;
+        margin-right: 3px;
+    }
     #page #about p{
         font-size: 12px;
     }
     #page #rocket {
         font-size: 11px;
-        font-weight: 900;
-        color: #a85fde;
-        line-height: 0;
+    font-weight: 900;
+    color: #a85fde;
+    line-height: 0;
     }
     #page #follow a {
         font-size: 16px;
