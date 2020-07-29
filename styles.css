@@ -114,6 +114,7 @@ menu {
     top: 0;
     background-color: white;
     padding: 20px 5px;
+    z-index: 2;
 }   
 menu a {
     text-decoration: none;
@@ -225,6 +226,7 @@ button:hover {
     object-fit: cover; /*preenche o espaço*/
     border-radius: 4px;
     opacity: 50%;
+    z-index: 1;
 }
 #grids img:hover {
     opacity: 100%;
