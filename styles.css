@@ -49,7 +49,7 @@ body {
     margin: 0 auto;
 }
 header{
-    background-image: linear-gradient(to right, #3f044b54, #b660c73d), url(/assets/luca-bravo-9l_326FISzk-unsplash.jpg);
+    background-image: linear-gradient(to right, #3f044b54, #b660c73d), url(assets/luca-bravo-9l_326FISzk-unsplash.jpg);
     height: 550px;
     background-size: cover;
     margin-top: 35px;  
@@ -272,7 +272,7 @@ button:hover {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url(/assets/Image.png);
+    background-image: url(assets/Image.png);
     background-size: cover;
     margin: 60px auto 0;
 }
